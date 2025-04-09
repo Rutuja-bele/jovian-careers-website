@@ -1,0 +1,2 @@
+Flask    #it is a development server, don't use this for production
+gunicorn #to put the flask application in production, use this library
